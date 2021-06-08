@@ -13,7 +13,7 @@
 
 ---
 
-## Also check out these super-useful Repos that I curated
+## Also check out these super-useful Repos that are very usefull
 
 - ### [Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 
