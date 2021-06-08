@@ -7,7 +7,7 @@
 
 # Python Machine Learning Jupyter Notebooks ([IAS website](https://www.ias.sn/))
 
-### Dr. Tirthajyoti Sarkar, Fremont, California ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7))
+### Dr. Tirthajyoti Sarkar, Fremont, California ([You can also flow IAS on linkdin](https://www.linkedin.com/company/71517780/))
 
 ![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
 
