@@ -7,7 +7,7 @@
 
 # Python Machine Learning Jupyter Notebooks ([IAS website](https://www.ias.sn/))
 
-### Algorithmes du Sénégal ([You can also follw IAS on linkdin](https://www.linkedin.com/company/71517780/))
+### Algorithmes du Sénégal ([You can also follow IAS on linkdin](https://www.linkedin.com/company/71517780/))
 
 ![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
 
