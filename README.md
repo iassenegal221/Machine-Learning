@@ -38,4 +38,4 @@
 ## Tutorial on Pandas and Numpy
 Jupyter notebooks covering a wide range of functions and operations on the topics of NumPy, Pandans, Seaborn, Matplotlib etc.
 
-* [Detailed Pandas operations](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Pandas_Operations.ipynb)
+* [Detailed Pandas operations](https://github.com/iassenegal221/Machine-Learning/blob/main/pandas%20and%20numpy/Pandas_Operations.ipynb)
