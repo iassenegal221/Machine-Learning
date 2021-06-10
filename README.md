@@ -34,3 +34,6 @@
 * **Tensorflow (`pip install tensorflow>=1.15`)**
 * **Keras (`pip install keras`)**
 * **pdpipe (`pip install pdpipe`)**
+
+
+* [Detailed Pandas operations](https://github.com/tirthajyoti/Machine-Learning-with-Python/blob/master/Pandas%20and%20Numpy/Pandas_Operations.ipynb)
