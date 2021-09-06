@@ -16,8 +16,6 @@
 |Mission OLU Classification |Build a base of conversations classification for OLU  | [Mission OLU Classification](https://gitlab.tech.orange/ndiaye1.dia/livrables/-/tree/master/Mission%20OLU%20Classification%20) |[Conversations issues de l'étape preprocessing](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|Different output : classification, keywords...|Non encore répertorié|
 |NMF-Pipeline | Building the Pipeline for the NMF model  | [NMF-Pipeline](https://gitlab.tech.orange/ndiaye1.dia/livrables/-/tree/master/NMF-Pipeline) |[Conversations issues de l'étape preprocessing](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|NMF.pkl/Conv_conid_TopicsKeyWords.csv|Non encore répertorié|
 |Pipeline | All Pipelines that are developped to automate our models training process |  [Pipelines](https://gitlab.tech.orange/ndiaye1.dia/livrables/-/tree/master/Pipelines)|[Conversations issues de l'étape preprocessing](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|Statistiques, mots et phrases clés, topcs...|Non encore répertorié|
-
-
 |[Yesterday_Conversations_Keywords_Intent](https://svc-master.kubeflow.tech.orange/pipeline/#/pipelines/details/6c2aed0b-4eed-4d61-bcdc-10e8d51bd758) |Pipeline permettant d'extraire les mots-clés des conversations ayant lieu le jour précédent le jour considèré |  [Gitlab link](https://gitlab.tech.orange/)|[Conversations issues de l'étape preprocessing](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|Mots-clés pour chaque conversation donnéee en entrée|Non encore répertorié|
 
 
