@@ -19,3 +19,6 @@
 |[Yesterday_Conversations_Keywords_Intent](https://svc-master.kubeflow.tech.orange/pipeline/#/pipelines/details/6c2aed0b-4eed-4d61-bcdc-10e8d51bd758) |Pipeline permettant d'extraire les mots-clés des conversations ayant lieu le jour précédent le jour considèré |  [Gitlab link](https://gitlab.tech.orange/)|[Conversations issues de l'étape preprocessing](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|Mots-clés pour chaque conversation donnéee en entrée|Non encore répertorié|
 
 
+
+|[Data_Loader_Preprocess_Count_without_oder_Keywords_Pipeline](https://svc-master.kubeflow.tech.orange/pipeline/#/pipelines/details/de51c078-08ea-43cd-8e0b-7dcf27b62c6f) |Pipeline permettant d'extraire les statistiques d'un ensemble expression(combinaisons de deux mots succesifs) donné en entrée |  [Gitlab link](https://gitlab.tech.orange/)|[Conversations issues de l'étape preprocessing et une liste d'expression](https://svc-master.kubeflow.tech.orange/_/pipeline/#/pipelines/details/dcbffa16-b44c-41b8-b934-e3f37c51b7a6)|Mots-clés pour chaque conversation donnéee en entrée, statistiques des expressions données en entrée|Non encore répertorié|
+
